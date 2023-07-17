@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.shell.windows" : "cmd.exe",
+		"terminal.integrated.shellArgs.windows" : [
+			"/k",
+			"C:/Espressif/frameworks/esp-idf-v5.0.2/export.bat"
+		],
+		"files.associations": {
+            "esp_bt_main.h": "c",
+            "event_groups.h": "c",
+            "esp_wifi.h": "c",
+            "sys.h": "c",
+            "esp_event.h": "c",
+            "esp_log.h": "c",
+            "sdkconfig.h": "c"
+        },
+	}
+}
